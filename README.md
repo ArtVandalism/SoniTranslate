@@ -1,6 +1,6 @@
 # 🎥 SoniTranslate 🈷️
 
-🎬 Video Translation with Synchronized Audio 🌐
+🎬 Video Translation with Synchronized Audio track 🌐
 
 SonyTranslate is a powerful and user-friendly web application that allows you to easily translate videos into different languages. This repository hosts the code for the SonyTranslate web UI, which is built with the Gradio library to provide a seamless and interactive user experience.
 
